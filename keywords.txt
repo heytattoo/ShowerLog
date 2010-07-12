@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for ShowerLog
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ShowerLog	KEYWORD1
+FloatLog KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+add	KEYWORD2
+checksum	KEYWORD2
+get	KEYWORD2
+oldest	KEYWORD2
+numFilled	KEYWORD2
+size	KEYWORD2
+incrementAll	KEYWORD2
+getTemp	KEYWORD2
+getDuration	KEYWORD2
+getAge	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
